@@ -1,0 +1,570 @@
+Index: .idea/uiDesigner.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/uiDesigner.xml b/.idea/uiDesigner.xml
+new file mode 100644
+--- /dev/null	(date 1710797291564)
++++ b/.idea/uiDesigner.xml	(date 1710797291564)
+@@ -0,0 +1,124 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="Palette2">
++    <group name="Swing">
++      <item class="com.intellij.uiDesigner.HSpacer" tooltip-text="Horizontal Spacer" icon="/com/intellij/uiDesigner/icons/hspacer.svg" removable="false" auto-create-binding="false" can-attach-label="false">
++        <default-constraints vsize-policy="1" hsize-policy="6" anchor="0" fill="1" />
++      </item>
++      <item class="com.intellij.uiDesigner.VSpacer" tooltip-text="Vertical Spacer" icon="/com/intellij/uiDesigner/icons/vspacer.svg" removable="false" auto-create-binding="false" can-attach-label="false">
++        <default-constraints vsize-policy="6" hsize-policy="1" anchor="0" fill="2" />
++      </item>
++      <item class="javax.swing.JPanel" icon="/com/intellij/uiDesigner/icons/panel.svg" removable="false" auto-create-binding="false" can-attach-label="false">
++        <default-constraints vsize-policy="3" hsize-policy="3" anchor="0" fill="3" />
++      </item>
++      <item class="javax.swing.JScrollPane" icon="/com/intellij/uiDesigner/icons/scrollPane.svg" removable="false" auto-create-binding="false" can-attach-label="true">
++        <default-constraints vsize-policy="7" hsize-policy="7" anchor="0" fill="3" />
++      </item>
++      <item class="javax.swing.JButton" icon="/com/intellij/uiDesigner/icons/button.svg" removable="false" auto-create-binding="true" can-attach-label="false">
++        <default-constraints vsize-policy="0" hsize-policy="3" anchor="0" fill="1" />
++        <initial-values>
++          <property name="text" value="Button" />
++        </initial-values>
++      </item>
++      <item class="javax.swing.JRadioButton" icon="/com/intellij/uiDesigner/icons/radioButton.svg" removable="false" auto-create-binding="true" can-attach-label="false">
++        <default-constraints vsize-policy="0" hsize-policy="3" anchor="8" fill="0" />
++        <initial-values>
++          <property name="text" value="RadioButton" />
++        </initial-values>
++      </item>
++      <item class="javax.swing.JCheckBox" icon="/com/intellij/uiDesigner/icons/checkBox.svg" removable="false" auto-create-binding="true" can-attach-label="false">
++        <default-constraints vsize-policy="0" hsize-policy="3" anchor="8" fill="0" />
++        <initial-values>
++          <property name="text" value="CheckBox" />
++        </initial-values>
++      </item>
++      <item class="javax.swing.JLabel" icon="/com/intellij/uiDesigner/icons/label.svg" removable="false" auto-create-binding="false" can-attach-label="false">
++        <default-constraints vsize-policy="0" hsize-policy="0" anchor="8" fill="0" />
++        <initial-values>
++          <property name="text" value="Label" />
++        </initial-values>
++      </item>
++      <item class="javax.swing.JTextField" icon="/com/intellij/uiDesigner/icons/textField.svg" removable="false" auto-create-binding="true" can-attach-label="true">
++        <default-constraints vsize-policy="0" hsize-policy="6" anchor="8" fill="1">
++          <preferred-size width="150" height="-1" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JPasswordField" icon="/com/intellij/uiDesigner/icons/passwordField.svg" removable="false" auto-create-binding="true" can-attach-label="true">
++        <default-constraints vsize-policy="0" hsize-policy="6" anchor="8" fill="1">
++          <preferred-size width="150" height="-1" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JFormattedTextField" icon="/com/intellij/uiDesigner/icons/formattedTextField.svg" removable="false" auto-create-binding="true" can-attach-label="true">
++        <default-constraints vsize-policy="0" hsize-policy="6" anchor="8" fill="1">
++          <preferred-size width="150" height="-1" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JTextArea" icon="/com/intellij/uiDesigner/icons/textArea.svg" removable="false" auto-create-binding="true" can-attach-label="true">
++        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3">
++          <preferred-size width="150" height="50" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JTextPane" icon="/com/intellij/uiDesigner/icons/textPane.svg" removable="false" auto-create-binding="true" can-attach-label="true">
++        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3">
++          <preferred-size width="150" height="50" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JEditorPane" icon="/com/intellij/uiDesigner/icons/editorPane.svg" removable="false" auto-create-binding="true" can-attach-label="true">
++        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3">
++          <preferred-size width="150" height="50" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JComboBox" icon="/com/intellij/uiDesigner/icons/comboBox.svg" removable="false" auto-create-binding="true" can-attach-label="true">
++        <default-constraints vsize-policy="0" hsize-policy="2" anchor="8" fill="1" />
++      </item>
++      <item class="javax.swing.JTable" icon="/com/intellij/uiDesigner/icons/table.svg" removable="false" auto-create-binding="true" can-attach-label="false">
++        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3">
++          <preferred-size width="150" height="50" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JList" icon="/com/intellij/uiDesigner/icons/list.svg" removable="false" auto-create-binding="true" can-attach-label="false">
++        <default-constraints vsize-policy="6" hsize-policy="2" anchor="0" fill="3">
++          <preferred-size width="150" height="50" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JTree" icon="/com/intellij/uiDesigner/icons/tree.svg" removable="false" auto-create-binding="true" can-attach-label="false">
++        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3">
++          <preferred-size width="150" height="50" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JTabbedPane" icon="/com/intellij/uiDesigner/icons/tabbedPane.svg" removable="false" auto-create-binding="true" can-attach-label="false">
++        <default-constraints vsize-policy="3" hsize-policy="3" anchor="0" fill="3">
++          <preferred-size width="200" height="200" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JSplitPane" icon="/com/intellij/uiDesigner/icons/splitPane.svg" removable="false" auto-create-binding="false" can-attach-label="false">
++        <default-constraints vsize-policy="3" hsize-policy="3" anchor="0" fill="3">
++          <preferred-size width="200" height="200" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JSpinner" icon="/com/intellij/uiDesigner/icons/spinner.svg" removable="false" auto-create-binding="true" can-attach-label="true">
++        <default-constraints vsize-policy="0" hsize-policy="6" anchor="8" fill="1" />
++      </item>
++      <item class="javax.swing.JSlider" icon="/com/intellij/uiDesigner/icons/slider.svg" removable="false" auto-create-binding="true" can-attach-label="false">
++        <default-constraints vsize-policy="0" hsize-policy="6" anchor="8" fill="1" />
++      </item>
++      <item class="javax.swing.JSeparator" icon="/com/intellij/uiDesigner/icons/separator.svg" removable="false" auto-create-binding="false" can-attach-label="false">
++        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3" />
++      </item>
++      <item class="javax.swing.JProgressBar" icon="/com/intellij/uiDesigner/icons/progressbar.svg" removable="false" auto-create-binding="true" can-attach-label="false">
++        <default-constraints vsize-policy="0" hsize-policy="6" anchor="0" fill="1" />
++      </item>
++      <item class="javax.swing.JToolBar" icon="/com/intellij/uiDesigner/icons/toolbar.svg" removable="false" auto-create-binding="false" can-attach-label="false">
++        <default-constraints vsize-policy="0" hsize-policy="6" anchor="0" fill="1">
++          <preferred-size width="-1" height="20" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JToolBar$Separator" icon="/com/intellij/uiDesigner/icons/toolbarSeparator.svg" removable="false" auto-create-binding="false" can-attach-label="false">
++        <default-constraints vsize-policy="0" hsize-policy="0" anchor="0" fill="1" />
++      </item>
++      <item class="javax.swing.JScrollBar" icon="/com/intellij/uiDesigner/icons/scrollbar.svg" removable="false" auto-create-binding="true" can-attach-label="false">
++        <default-constraints vsize-policy="6" hsize-policy="0" anchor="0" fill="2" />
++      </item>
++    </group>
++  </component>
++</project>
+\ No newline at end of file
+Index: src/main/java/co/edu/uniquindio/ed/exception/AgregarCancionesCatalogoException.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/co/edu/uniquindio/ed/exception/AgregarCancionesCatalogoException.java b/src/main/java/co/edu/uniquindio/ed/exception/AgregarCancionesCatalogoException.java
+new file mode 100644
+--- /dev/null	(date 1710799444603)
++++ b/src/main/java/co/edu/uniquindio/ed/exception/AgregarCancionesCatalogoException.java	(date 1710799444603)
+@@ -0,0 +1,8 @@
++package co.edu.uniquindio.ed.exception;
++
++public class AgregarCancionesCatalogoException extends Exception {
++
++    public AgregarCancionesCatalogoException(String message){
++        super(message);
++    }
++}
+Index: src/main/java/co/edu/uniquindio/ed/exception/ExistenciaUsuarioException.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/co/edu/uniquindio/ed/exception/ExistenciaUsuarioException.java b/src/main/java/co/edu/uniquindio/ed/exception/ExistenciaUsuarioException.java
+new file mode 100644
+--- /dev/null	(date 1710802286613)
++++ b/src/main/java/co/edu/uniquindio/ed/exception/ExistenciaUsuarioException.java	(date 1710802286613)
+@@ -0,0 +1,7 @@
++package co.edu.uniquindio.ed.exception;
++
++public class ExistenciaUsuarioException extends Exception{
++    public ExistenciaUsuarioException (String message){
++        super(message);
++    }
++}
+Index: .idea/encodings.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/encodings.xml b/.idea/encodings.xml
+new file mode 100644
+--- /dev/null	(date 1710335087747)
++++ b/.idea/encodings.xml	(date 1710335087747)
+@@ -0,0 +1,7 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="Encoding">
++    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
++    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
++  </component>
++</project>
+\ No newline at end of file
+Index: src/main/java/co/edu/uniquindio/ed/model/Storify.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/co/edu/uniquindio/ed/model/Storify.java b/src/main/java/co/edu/uniquindio/ed/model/Storify.java
+new file mode 100644
+--- /dev/null	(date 1710804217766)
++++ b/src/main/java/co/edu/uniquindio/ed/model/Storify.java	(date 1710804217766)
+@@ -0,0 +1,181 @@
++package co.edu.uniquindio.ed.model;
++
++import co.edu.uniquindio.ed.exception.AgregarCancionesCatalogoException;
++import co.edu.uniquindio.ed.exception.CrearUsuarioNuevoException;
++import co.edu.uniquindio.ed.exception.ExistenciaUsuarioException;
++import jakarta.mail.*;
++import jakarta.mail.internet.InternetAddress;
++import jakarta.mail.internet.MimeMessage;
++
++import java.io.IOException;
++import java.time.Duration;
++import java.util.HashMap;
++import java.util.HashSet;
++import java.util.Properties;
++import java.util.Random;
++import java.util.logging.FileHandler;
++import java.util.logging.Level;
++import java.util.logging.Logger;
++import java.util.logging.SimpleFormatter;
++
++
++public class Storify {
++
++    private HashSet<Cancion> catalogo;
++    private HashMap<String,Usuario> listaUsuarios;
++    private static Storify storify;
++    //LOGGERS
++    private static final Logger LOGGER =Logger.getLogger(Storify.class.getName());
++
++
++    private Storify() {
++        try {
++            FileHandler fh = new FileHandler("logs.log", true);
++            fh.setFormatter(new SimpleFormatter());
++            LOGGER.addHandler(fh);
++        } catch (IOException e) {
++            LOGGER.log(Level.SEVERE, e.getMessage());
++        }
++        LOGGER.log(Level.INFO, "Se crea una nueva instanica de Agencia de viajes");
++
++        System.out.println("Aqui funciona");
++        /*Properties prop = new Properties();
++        FileInputStream input = null;
++        try {
++            input = new FileInputStream(RUTA_PROPIEDADES);
++            prop.load(input);
++        } catch (IOException e) {
++            throw new RuntimeException(e);
++        }*/
++
++        this.catalogo = new HashSet<>();
++        this.listaUsuarios = new HashMap<>();
++    }
++
++    private static Storify getInstance(){
++        if(storify==null){
++            storify = new Storify();
++        }
++        return storify;
++    }
++
++
++    /**
++     * Metodo para agregar canciones al catalogo
++     * @param nombreCancion
++     * @param nombreAlbum
++     * @param caratula
++     * @param anio
++     * @param duracion
++     * @param url
++     * @throws AgregarCancionesCatalogoException
++     */
++    public void agregarCancionEnCatalogo(String nombreCancion , String nombreAlbum , String caratula , int anio , Duration duracion , String url) throws AgregarCancionesCatalogoException
++    {
++        if(nombreCancion==null || nombreCancion.isBlank() || nombreAlbum == null || nombreCancion.isBlank() || caratula == null || caratula.isBlank() || anio <1860 || url == null || url.isBlank() || duracion.getSeconds() <= 0)
++        {
++            throw new AgregarCancionesCatalogoException("Verifique los datos de la cancion");
++        }
++        else
++        {
++            Cancion cancion = Cancion.builder()
++                    .nombreCancion(nombreCancion)
++                    .nombreAlbum(nombreAlbum)
++                    .caratula(caratula)
++                    .anio(anio)
++                    .duracion(duracion)
++                    .url(url)
++                    .build();
++
++            catalogo.add(cancion);
++            LOGGER.log(Level.INFO, "La cancion "+ nombreCancion + " del album " + nombreAlbum + " se ha registrado");
++        }
++
++    }
++
++
++    /**
++     * Metodo para añadir un nuevo usuario en la lista de usuarios
++     * @param username
++     * @param password
++     * @param email
++     * @throws CrearUsuarioNuevoException
++     * @throws ExistenciaUsuarioException
++     */
++    public void crearUsuario (String username , String password , String email) throws CrearUsuarioNuevoException , ExistenciaUsuarioException
++    {
++        if (username == null || username.isBlank() || password == null || password.isBlank() || email == null || email.isBlank())
++        {
++            throw new CrearUsuarioNuevoException("Error en los datos ingresados, por favor verificar");
++        } else if (listaUsuarios.containsKey(username)) {
++            throw new ExistenciaUsuarioException("El usuario ya existe, pruebe con otro");
++        }
++        else
++        {
++            Usuario usuario = Usuario.builder()
++                    .username((username))
++                    .password(password)
++                    .email(email)
++                    .build();
++
++            listaUsuarios.put(username , usuario);
++            LOGGER.log(Level.INFO, "El usuario "+ username  +   " se ha añadido correctamente");
++
++        }
++    }
++
++    public void actualizarContraseniaUsuario()
++    {
++
++    }
++
++    public static String generarCodigoRecuperacion() {
++
++        String characters = "0123456789";
++        int length = 5;
++        StringBuilder code = new StringBuilder();
++
++        Random random = new Random();
++        for (int i = 0; i < length; i++) {
++            code.append(characters.charAt(random.nextInt(characters.length())));
++        }
++
++        return code.toString();
++    }
++
++
++
++    public static void enviarCodigoRecuperacion(String recipientEmail, String recoveryCode) {
++        final String senderEmail = "andrese.perezm@uqvirtual.edu.co"; // Cambia esto por tu dirección de correo electrónico
++        final String senderPassword = "Andr3sp3r3z*"; // Cambia esto por tu contraseña de correo electrónico
++
++        Properties props = new Properties();
++        props.put("mail.smtp.auth", "true");
++        props.put("mail.smtp.starttls.enable", "true");
++        props.put("mail.smtp.host", "smtp.gmail.com"); // Cambia esto si no estás utilizando Gmail
++        props.put("mail.smtp.port", "587"); // Puerto de Gmail
++
++        Session session = Session.getInstance(props, new Authenticator() {
++            protected PasswordAuthentication getPasswordAuthentication() {
++                return new PasswordAuthentication(senderEmail, senderPassword);
++            }
++        });
++
++        try {
++            Message message = new MimeMessage(session);
++            message.setFrom(new InternetAddress(senderEmail));
++            message.setRecipients(Message.RecipientType.TO, InternetAddress.parse(recipientEmail));
++            message.setSubject("Código de recuperación de contraseña");
++            message.setText("Tu código de recuperación es: " + recoveryCode);
++
++            Transport.send(message);
++
++            System.out.println("Código de recuperación enviado correctamente a " + recipientEmail);
++        } catch (MessagingException e) {
++            throw new RuntimeException(e);
++        }
++    }
++
++
++
++}
+Index: src/main/java/co/edu/uniquindio/ed/exception/CrearUsuarioNuevoException.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/co/edu/uniquindio/ed/exception/CrearUsuarioNuevoException.java b/src/main/java/co/edu/uniquindio/ed/exception/CrearUsuarioNuevoException.java
+new file mode 100644
+--- /dev/null	(date 1710801728253)
++++ b/src/main/java/co/edu/uniquindio/ed/exception/CrearUsuarioNuevoException.java	(date 1710801728253)
+@@ -0,0 +1,7 @@
++package co.edu.uniquindio.ed.exception;
++
++public class CrearUsuarioNuevoException extends Exception{
++    public CrearUsuarioNuevoException(String message){
++        super(message);
++    }
++}
+Index: .idea/.gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/.gitignore b/.idea/.gitignore
+new file mode 100644
+--- /dev/null	(date 1710335088652)
++++ b/.idea/.gitignore	(date 1710335088652)
+@@ -0,0 +1,8 @@
++# Default ignored files
++/shelf/
++/workspace.xml
++# Editor-based HTTP Client requests
++/httpRequests/
++# Datasource local storage ignored files
++/dataSources/
++/dataSources.local.xml
+Index: src/main/java/co/edu/uniquindio/ed/model/Artista.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/co/edu/uniquindio/ed/model/Artista.java b/src/main/java/co/edu/uniquindio/ed/model/Artista.java
+new file mode 100644
+--- /dev/null	(date 1710800498196)
++++ b/src/main/java/co/edu/uniquindio/ed/model/Artista.java	(date 1710800498196)
+@@ -0,0 +1,21 @@
++package co.edu.uniquindio.ed.model;
++
++
++import lombok.AllArgsConstructor;
++import lombok.Getter;
++import lombok.NoArgsConstructor;
++import lombok.Setter;
++
++@Getter
++@Setter
++@AllArgsConstructor
++@NoArgsConstructor
++public class Artista {
++
++    private String codigo;
++    private String nombre;
++    private String nacionalidad;
++    private boolean isGrupo;
++
++
++}
+Index: .idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/vcs.xml b/.idea/vcs.xml
+new file mode 100644
+--- /dev/null	(date 1710335087873)
++++ b/.idea/vcs.xml	(date 1710335087873)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="VcsDirectoryMappings">
++    <mapping directory="$PROJECT_DIR$/../../../../../.." vcs="Git" />
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/misc.xml b/.idea/misc.xml
+new file mode 100644
+--- /dev/null	(date 1710796809701)
++++ b/.idea/misc.xml	(date 1710796809701)
+@@ -0,0 +1,13 @@
++<project version="4">
++  <component name="ExternalStorageConfigurationManager" enabled="true" />
++  <component name="MavenProjectsManager">
++    <option name="originalFiles">
++      <list>
++        <option value="$PROJECT_DIR$/pom.xml" />
++      </list>
++    </option>
++  </component>
++  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK">
++    <output url="file://$PROJECT_DIR$/out" />
++  </component>
++</project>
+\ No newline at end of file
+Index: src/main/java/co/edu/uniquindio/ed/model/Genero.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/co/edu/uniquindio/ed/model/Genero.java b/src/main/java/co/edu/uniquindio/ed/model/Genero.java
+new file mode 100644
+--- /dev/null	(date 1710797710683)
++++ b/src/main/java/co/edu/uniquindio/ed/model/Genero.java	(date 1710797710683)
+@@ -0,0 +1,6 @@
++package co.edu.uniquindio.ed.model;
++
++public enum Genero {
++
++    ROCK, POP, PUNK, REGGAETON, ELECTRONICA;
++}
+Index: src/main/java/co/edu/uniquindio/ed/model/Usuario.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/co/edu/uniquindio/ed/model/Usuario.java b/src/main/java/co/edu/uniquindio/ed/model/Usuario.java
+new file mode 100644
+--- /dev/null	(date 1710802486323)
++++ b/src/main/java/co/edu/uniquindio/ed/model/Usuario.java	(date 1710802486323)
+@@ -0,0 +1,17 @@
++package co.edu.uniquindio.ed.model;
++
++
++import lombok.*;
++
++@Getter
++@Setter
++@AllArgsConstructor
++@NoArgsConstructor
++@Builder
++public class Usuario {
++
++    private String username;
++    private String password;
++    private String email;
++    private circleLinkedList lstCanciones;
++}
+Index: src/main/java/co/edu/uniquindio/ed/model/Cancion.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/co/edu/uniquindio/ed/model/Cancion.java b/src/main/java/co/edu/uniquindio/ed/model/Cancion.java
+new file mode 100644
+--- /dev/null	(date 1710801004660)
++++ b/src/main/java/co/edu/uniquindio/ed/model/Cancion.java	(date 1710801004660)
+@@ -0,0 +1,31 @@
++package co.edu.uniquindio.ed.model;
++
++import lombok.*;
++
++import java.time.Duration;
++import java.util.UUID;
++
++@Getter
++@Setter
++@AllArgsConstructor
++@NoArgsConstructor
++@Builder
++public class Cancion {
++    private String codigoUnico;
++    private String nombreCancion;
++    private String nombreAlbum;
++    private String caratula;
++    private int anio;
++    private Duration duracion;
++    private String url;
++
++    public Cancion(String nombreCancion, String nombreAlbum, String caratula, int anio, Duration duracion, String url) {
++        this.codigoUnico = UUID.randomUUID().toString();
++        this.nombreCancion = nombreCancion;
++        this.nombreAlbum = nombreAlbum;
++        this.caratula = caratula;
++        this.anio = anio;
++        this.duracion = duracion;
++        this.url = url;
++    }
++}

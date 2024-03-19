@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c4104b4c-b08d-46a9-8b69-5e8741db85e4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../Discord.lnk" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../Discord.lnk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../GitHub Desktop.lnk" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../GitHub Desktop.lnk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../Notas clase.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../Notas clase.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../SceneBuilder.lnk" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../SceneBuilder.lnk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../Sockets.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/Intellij/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/Intellij/.idea/Intellij.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/Intellij/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/Intellij/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/Intellij/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/Intellij/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/Intellij/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/Intellij/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/Intellij/agencia-Cliente/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/Intellij/agencia-Cliente/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/Intellij/agencia-Cliente/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/Intellij/agencia-Cliente/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/Intellij/agencia-Cliente/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/Intellij/agencia-Cliente/logs.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/Intellij/agencia-Cliente/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/Intellij/agencia-Cliente/src/main/java/co/edu/uniquindio/pr3/Socket/Mensaje.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/Intellij/agencia-Cliente/src/main/java/co/edu/uniquindio/pr3/controllers/CambiarContrasenaController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/Intellij/agencia-Cliente/src/main/java/co/edu/uniquindio/pr3/controllers/InicioSesionController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/Intellij/agencia-Cliente/src/main/java/co/edu/uniquindio/pr3/controllers/RegistroClienteController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/Intellij/agencia-Cliente/src/main/java/co/edu/uniquindio/pr3/controllers/SingletonController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/Intellij/agencia-Cliente/src/main/java/co/edu/uniquindio/pr3/controllers/VentanaActualizarClienteController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/Intellij/agencia-Cliente/src/main/java/co/edu/uniquindio/pr3/controllers/VentanaActualizarDestinosController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/Intellij/agencia-Cliente/src/main/java/co/edu/uniquindio/pr3/controllers/VentanaActualizarGuiaController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/Intellij/agencia-Cliente/src/main/java/co/edu/uniquindio/pr3/controllers/VentanaCreacionDestinoController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/Intellij/agencia-Cliente/src/main/java/co/edu/uniquindio/pr3/controllers/VentanaCreacionPaquetesController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/Intellij/agencia-Cliente/src/main/java/co/edu/uniquindio/pr3/controllers/VentanaCrearGuiaController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/Intellij/agencia-Cliente/src/main/java/co/edu/uniquindio/pr3/controllers/VentanaEstadisticasController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/Intellij/agencia-Cliente/src/main/java/co/edu/uniquindio/pr3/controllers/VentanaGraficasController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/Intellij/agencia-Cliente/src/main/java/co/edu/uniquindio/pr3/controllers/VentanaMostrarPaquetesController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/Intellij/agencia-Cliente/src/main/java/co/edu/uniquindio/pr3/controllers/VentanaMostrarReservasController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/Intellij/agencia-Cliente/src/main/java/co/edu/uniquindio/pr3/controllers/VentanaPrincipalController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/Intellij/agencia-Cliente/src/main/java/co/edu/uniquindio/pr3/controllers/VentanaVerDestinosController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/Intellij/agencia-Cliente/src/main/java/co/edu/uniquindio/pr3/controllers/VentanaVerListaClientesController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/Intellij/agencia-Cliente/src/main/java/co/edu/uniquindio/pr3/exceptions/ClienteExisteException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/Intellij/agencia-Cliente/src/main/java/co/edu/uniquindio/pr3/exceptions/ClienteVacioException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/Intellij/agencia-Cliente/src/main/java/co/edu/uniquindio/pr3/exceptions/DestinoExisteException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/Intellij/agencia-Cliente/src/main/java/co/edu/uniquindio/pr3/exceptions/DestinoVacioException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/Intellij/agencia-Cliente/src/main/java/co/edu/uniquindio/pr3/exceptions/GuiaTuristicoExisteException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/Intellij/agencia-Cliente/src/main/java/co/edu/uniquindio/pr3/exceptions/GuiaTuristicoVacioException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/Intellij/agencia-Cliente/src/main/java/co/edu/uniquindio/pr3/exceptions/PaqueteExisteException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/Intellij/agencia-Cliente/src/main/java/co/edu/uniquindio/pr3/exceptions/PaqueteUnoDiferenciaException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/Intellij/agencia-Cliente/src/main/java/co/edu/uniquindio/pr3/exceptions/PaqueteVacioException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/Intellij/agencia-Cliente/src/main/java/co/edu/uniquindio/pr3/exceptions/ReservaExisteException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/Intellij/agencia-Cliente/src/main/java/co/edu/uniquindio/pr3/exceptions/ReservaVaciaException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/Intellij/agencia-Cliente/src/main/java/co/edu/uniquindio/pr3/main/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/Intellij/agencia-Cliente/src/main/java/co/edu/uniquindio/pr3/model/Administrador.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/Intellij/agencia-Cliente/src/main/java/co/edu/uniquindio/pr3/model/AgenciaViajes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/Intellij/agencia-Cliente/src/main/java/co/edu/uniquindio/pr3/model/Cliente.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/Intellij/agencia-Cliente/src/main/java/co/edu/uniquindio/pr3/model/Clima.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/Intellij/agencia-Cliente/src/main/java/co/edu/uniquindio/pr3/model/Destino.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/Intellij/agencia-Cliente/src/main/java/co/edu/uniquindio/pr3/model/EstadoReserva.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/Intellij/agencia-Cliente/src/main/java/co/edu/uniquindio/pr3/model/GuiaTuristico.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/Intellij/agencia-Cliente/src/main/java/co/edu/uniquindio/pr3/model/Lengua.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/Intellij/agencia-Cliente/src/main/java/co/edu/uniquindio/pr3/model/Mail.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/Intellij/agencia-Cliente/src/main/java/co/edu/uniquindio/pr3/model/PaqueteTuristico.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/Intellij/agencia-Cliente/src/main/java/co/edu/uniquindio/pr3/model/Persona.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/Intellij/agencia-Cliente/src/main/java/co/edu/uniquindio/pr3/model/Reserva.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/Intellij/agencia-Cliente/src/main/java/co/edu/uniquindio/pr3/test/PruebaProperties.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/Intellij/agencia-Cliente/src/main/java/co/edu/uniquindio/pr3/utils/ArchivoUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/Intellij/agencia-Cliente/src/main/resources/config/textos.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/Intellij/agencia-Cliente/src/main/resources/ventanas/CambiarContrasena.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/Intellij/agencia-Cliente/src/main/resources/ventanas/InicioSesion.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/Intellij/agencia-Cliente/src/main/resources/ventanas/VentanaActualizarCliente.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/Intellij/agencia-Cliente/src/main/resources/ventanas/VentanaActualizarDestinos.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/Intellij/agencia-Cliente/src/main/resources/ventanas/VentanaActualizarGuia.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/Intellij/agencia-Cliente/src/main/resources/ventanas/VentanaCreacionPaquetes.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/Intellij/agencia-Cliente/src/main/resources/ventanas/VentanaCrearGuia.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/Intellij/agencia-Cliente/src/main/resources/ventanas/VentanaEstadisticas.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/Intellij/agencia-Cliente/src/main/resources/ventanas/VentanaGraficas.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/Intellij/agencia-Cliente/src/main/resources/ventanas/VentanaMostrarPaquetes.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/Intellij/agencia-Cliente/src/main/resources/ventanas/VentanaMostrarReservas.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/Intellij/agencia-Cliente/src/main/resources/ventanas/VentanaPrincipal.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/Intellij/agencia-Cliente/src/main/resources/ventanas/VentanaRegistroCliente.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/Intellij/agencia-Cliente/src/main/resources/ventanas/VentanaVerDestinos.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/Intellij/agencia-Cliente/src/main/resources/ventanas/VentanaVerListaClientes.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/Intellij/agencia-Cliente/src/main/resources/ventanas/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/Intellij/agencia-Cliente/src/main/resources/ventanas/ventanaCreacionDestinos.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/Intellij/agenciaViajesServidor/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/Intellij/pruebasJavaFX/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/Intellij/pruebasJavaFX/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/Intellij/pruebasJavaFX/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/Intellij/pruebasJavaFX/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/Intellij/pruebasJavaFX/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/Intellij/pruebasJavaFX/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/Intellij/pruebasJavaFX/src/main/java/app/IntegerSliderWithTicks.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/InterfacesGráficasEclipseNeon/.metadata/.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/InterfacesGráficasEclipseNeon/.metadata/.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/InterfacesGráficasEclipseNeon/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/history.version" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/InterfacesGráficasEclipseNeon/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/InterfacesGráficasEclipseNeon/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.version" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/InterfacesGráficasEclipseNeon/.metadata/.plugins/org.eclipse.core.resources/.root/1.tree" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/InterfacesGráficasEclipseNeon/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/InterfacesGráficasEclipseNeon/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/InterfacesGráficasEclipseNeon/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/InterfacesGráficasEclipseNeon/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.m2e.discovery.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/InterfacesGráficasEclipseNeon/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.team.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/InterfacesGráficasEclipseNeon/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.editors.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/InterfacesGráficasEclipseNeon/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/InterfacesGráficasEclipseNeon/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/InterfacesGráficasEclipseNeon/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/InterfacesGráficasEclipseNeon/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/InterfacesGráficasEclipseNeon/.metadata/.plugins/org.eclipse.jdt.core/assumedExternalFilesCache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/InterfacesGráficasEclipseNeon/.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/InterfacesGráficasEclipseNeon/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/InterfacesGráficasEclipseNeon/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/InterfacesGráficasEclipseNeon/.metadata/.plugins/org.eclipse.jdt.ui/OpenTypeHistory.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/InterfacesGráficasEclipseNeon/.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/InterfacesGráficasEclipseNeon/.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/InterfacesGráficasEclipseNeon/.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/InterfacesGráficasEclipseNeon/.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/InterfacesGráficasEclipseNeon/.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Programación II/InterfacesGráficasEclipseNeon/.metadata/version.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../Webex.lnk" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../Webex.lnk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../proyectoProgramacion/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../proyectoProgramacion/.project" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$/../../../../../.." source="origin/master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/../../../../../.." value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../../.." />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="zuniga" />
+                    <option name="lastUsedInstant" value="1710816634" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1710816633" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$/../../../../../.." />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2ddPaaiUtazqufL6sMiZOS9CGfR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "zuniga",
+    "jdk.selected.JAVA_MODULE": "17",
+    "last_opened_file_path": "C:/Users/ANDRE/Desktop/Universidad/5to semestre/Estructura de Datos/TallerListas/src/listaCircular",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c4104b4c-b08d-46a9-8b69-5e8741db85e4" name="Changes" comment="" />
+      <created>1710335050047</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710335050047</updated>
+      <workItem from="1710335051818" duration="1747000" />
+      <workItem from="1710597943887" duration="226000" />
+      <workItem from="1710598568883" duration="136000" />
+      <workItem from="1710796441115" duration="263000" />
+      <workItem from="1710796820106" duration="6844000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
